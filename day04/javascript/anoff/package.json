@@ -1,0 +1,12 @@
+{
+  "name": "aoc2018-day04-js-anoff",
+  "main": "solution.js",
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "private": true,
+  "devDependencies": {
+    "ava": "^1.0.0-rc.2",
+    "standard": "^12.0.1"
+  }
+}
